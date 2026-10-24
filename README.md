@@ -31,37 +31,6 @@ Portofolio-profesional/
    ├─ og-image.svg          # Sumber vektor kartu Open Graph
    └─ star-separator.svg    # Bintang 4 titik untuk marquee
 ```
-
-## Cara Menjalankan Secara Lokal
-
-Cukup buka `index.html` langsung di browser (double-click atau drag ke tab browser). Tidak perlu server lokal, tidak perlu `npm install`, tidak ada build step.
-
-> **Catatan:** Semua path menggunakan path relatif (`./css/style.css`, `./assets/...`) sehingga situs berfungsi baik di `file://`, `http://localhost`, maupun `https://username.github.io/repo/`.
-
-## Deploy ke GitHub Pages
-
-1. **Push ke repository GitHub** (misal: `anomaly-develop/portofolio-profesional`)
-2. Buka **Settings → Pages**
-3. **Source**: pilih `Deploy from a branch`
-4. **Branch**: `main` (atau branch default Anda), folder `/ (root)`
-5. Klik **Save**
-6. Tunggu 1–2 menit, lalu buka `https://anomaly-develop.github.io/portofolio-profesional/`
-
-> **Catatan OG:** `og:url`, `og:image`, dan `twitter:image` memakai URL absolut ke `https://anomaly-develop.github.io/portofolio-profesional/`. Jika nama repo berbeda, sesuaikan ketiganya di `<head>` `index.html`.
-
-File `.nojekyll` sudah disertakan agar GitHub Pages tidak memproses folder `_` dan tidak menjalankan Jekyll.
-
-## Kontak & Sosial
-
-Email, Instagram, dan LinkedIn sudah terpasang di section **KONTAK** dan footer:
-
-- Email: `billiamhia@gmail.com`
-- Instagram: `https://www.instagram.com/bil.liam_/`
-- LinkedIn: `https://www.linkedin.com/in/billiam-agsa-tatema-hia-a08867329`
-
-Jika salah satu tautan berubah, edit `CONTENT.md` bagian **Identitas** lalu perbarui
-`index.html` (section kontak, footer, dan JSON-LD). Nomor telepon tetap tidak dicantumkan.
-
 ## Semua Konten Ada di `CONTENT.md`
 
 File `CONTENT.md` adalah **sumber kebenaran tunggal** untuk:
