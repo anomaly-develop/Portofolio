@@ -174,7 +174,7 @@ untuk garis, label, angka, dan satu tombol utama. Tidak ada teks gradien. Tidak 
 
 ### Kreatif
 - Kiri: teks. Kanan: kolase tiga panel miring (`rotate(-2deg / 1deg / -1deg)`) berisi
-  potongan foto casual, blok warna rust, dan tipografi besar `FL STUDIO` — semuanya
+  potongan foto casual, blok warna rust, dan wordmark `FL Studio` — semuanya
   dirender dengan CSS + SVG, tanpa gambar stok.
 
 ### Kontak
