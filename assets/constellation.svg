@@ -1,0 +1,47 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .constellation-line { fill: none; stroke: #C9A35B; stroke-width: 1; opacity: 0.4; }
+      .constellation-node { fill: #C9A35B; opacity: 0.8; }
+      .constellation-node-large { fill: #C9A35B; opacity: 1; }
+    </style>
+  </defs>
+  <!-- Constellation lines -->
+  <line class="constellation-line" x1="120" y1="150" x2="280" y2="200"/>
+  <line class="constellation-line" x1="280" y1="200" x2="420" y2="120"/>
+  <line class="constellation-line" x1="420" y1="120" x2="580" y2="180"/>
+  <line class="constellation-line" x1="580" y1="180" x2="680" y2="100"/>
+  <line class="constellation-line" x1="280" y1="200" x2="350" y2="380"/>
+  <line class="constellation-line" x1="350" y1="380" x2="200" y2="520"/>
+  <line class="constellation-line" x1="350" y1="380" x2="520" y2="420"/>
+  <line class="constellation-line" x1="520" y1="420" x2="650" y2="350"/>
+  <line class="constellation-line" x1="650" y1="350" x2="720" y2="280"/>
+  <line class="constellation-line" x1="520" y1="420" x2="580" y2="580"/>
+  <line class="constellation-line" x1="580" y1="580" x2="400" y2="680"/>
+  <line class="constellation-line" x1="400" y1="680" x2="250" y2="750"/>
+  <line class="constellation-line" x1="580" y1="580" x2="700" y2="650"/>
+  <line class="constellation-line" x1="700" y1="650" x2="750" y2="500"/>
+  <line class="constellation-line" x1="150" y1="600" x2="280" y2="520"/>
+  <line class="constellation-line" x1="150" y1="600" x2="80" y2="720"/>
+  <line class="constellation-line" x1="680" y1="100" x2="750" y2="50"/>
+  
+  <!-- Nodes -->
+  <circle class="constellation-node-large" cx="120" cy="150" r="4"/>
+  <circle class="constellation-node" cx="280" cy="200" r="3"/>
+  <circle class="constellation-node-large" cx="420" cy="120" r="4"/>
+  <circle class="constellation-node" cx="580" cy="180" r="3"/>
+  <circle class="constellation-node" cx="680" cy="100" r="3"/>
+  <circle class="constellation-node" cx="350" cy="380" r="3"/>
+  <circle class="constellation-node-large" cx="200" cy="520" r="4"/>
+  <circle class="constellation-node" cx="520" cy="420" r="3"/>
+  <circle class="constellation-node" cx="650" cy="350" r="3"/>
+  <circle class="constellation-node" cx="720" cy="280" r="3"/>
+  <circle class="constellation-node" cx="580" cy="580" r="3"/>
+  <circle class="constellation-node-large" cx="400" cy="680" r="4"/>
+  <circle class="constellation-node" cx="250" cy="750" r="3"/>
+  <circle class="constellation-node" cx="700" cy="650" r="3"/>
+  <circle class="constellation-node" cx="750" cy="500" r="3"/>
+  <circle class="constellation-node" cx="150" cy="600" r="3"/>
+  <circle class="constellation-node" cx="80" cy="720" r="3"/>
+  <circle class="constellation-node" cx="750" cy="50" r="3"/>
+</svg>

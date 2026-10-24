@@ -1,0 +1,70 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .calc-grid { fill: none; stroke: #16242E; stroke-width: 1; }
+      .calc-btn { fill: #0E1720; stroke: #EFE7D6; stroke-width: 0.5; rx="2"; }
+      .calc-symbol { fill: #C9A35B; font-family: "JetBrains Mono", monospace; font-size: 28px; text-anchor: middle; dominant-baseline: middle; }
+      .calc-display { fill: #080D13; stroke: #C9A35B; stroke-width: 1; rx="2"; }
+      .calc-text { fill: #C9A35B; font-family: "JetBrains Mono", monospace; font-size: 24px; text-anchor: end; dominant-baseline: middle; }
+    </style>
+  </defs>
+  
+  <!-- Display -->
+  <rect class="calc-display" x="80" y="60" width="640" height="80"/>
+  <text class="calc-text" x="680" y="100">0</text>
+  
+  <!-- Keypad grid -->
+  <g class="calc-grid">
+    <!-- Row 1: C, ±, %, ÷ -->
+    <rect class="calc-btn" x="80" y="180" width="140" height="70"/>
+    <text class="calc-symbol" x="150" y="215">C</text>
+    
+    <rect class="calc-btn" x="240" y="180" width="140" height="70"/>
+    <text class="calc-symbol" x="310" y="215">±</text>
+    
+    <rect class="calc-btn" x="400" y="180" width="140" height="70"/>
+    <text class="calc-symbol" x="470" y="215">%</text>
+    
+    <rect class="calc-btn" x="560" y="180" width="140" height="70"/>
+    <text class="calc-symbol" x="630" y="215">÷</text>
+    
+    <!-- Row 2: 7, 8, 9, × -->
+    <rect class="calc-btn" x="80" y="270" width="140" height="70"/>
+    <text class="calc-symbol" x="150" y="305">7</text>
+    
+    <rect class="calc-btn" x="240" y="270" width="140" height="70"/>
+    <text class="calc-symbol" x="310" y="305">8</text>
+    
+    <rect class="calc-btn" x="400" y="270" width="140" height="70"/>
+    <text class="calc-symbol" x="470" y="305">9</text>
+    
+    <rect class="calc-btn" x="560" y="270" width="140" height="70"/>
+    <text class="calc-symbol" x="630" y="305">×</text>
+    
+    <!-- Row 3: 4, 5, 6, - -->
+    <rect class="calc-btn" x="80" y="360" width="140" height="70"/>
+    <text class="calc-symbol" x="150" y="395">4</text>
+    
+    <rect class="calc-btn" x="240" y="360" width="140" height="70"/>
+    <text class="calc-symbol" x="310" y="395">5</text>
+    
+    <rect class="calc-btn" x="400" y="360" width="140" height="70"/>
+    <text class="calc-symbol" x="470" y="395">6</text>
+    
+    <rect class="calc-btn" x="560" y="360" width="140" height="70"/>
+    <text class="calc-symbol" x="630" y="395">−</text>
+    
+    <!-- Row 4: 1, 2, 3, + -->
+    <rect class="calc-btn" x="80" y="450" width="140" height="70"/>
+    <text class="calc-symbol" x="150" y="485">1</text>
+    
+    <rect class="calc-btn" x="240" y="450" width="140" height="70"/>
+    <text class="calc-symbol" x="310" y="485">2</text>
+    
+    <rect class="calc-btn" x="400" y="450" width="140" height="70"/>
+    <text class="calc-symbol" x="470" y="485">3</text>
+    
+    <rect class="calc-btn" x="560" y="450" width="140" height="70"/>
+    <text class="calc-symbol" x="630" y="485">+</text>
+  </g>
+</svg>

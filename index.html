@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portofolio Billiam Agsa Tatema Hia, mahasiswa Ilmu Komputer Universitas Sumatera Utara. Machine learning, data, desain antarmuka, dan pengalaman organisasi.">
+  <meta name="theme-color" content="#080D13">
+  <title>Billiam Agsa Tatema Hia — Ilmu Komputer USU</title>
+
+  <!-- Preconnect & Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"></noscript>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="apple-touch-icon" href="./assets/favicon.svg">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Billiam Agsa Tatema Hia — Ilmu Komputer USU">
+  <meta property="og:description" content="Portofolio Billiam Agsa Tatema Hia, mahasiswa Ilmu Komputer Universitas Sumatera Utara. Machine learning, data, desain antarmuka, dan pengalaman organisasi.">
+  <meta property="og:image" content="https://anomaly-develop.github.io/portofolio-profesional/assets/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://anomaly-develop.github.io/portofolio-profesional/">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Billiam Agsa Tatema Hia — Ilmu Komputer USU">
+  <meta name="twitter:description" content="Portofolio Billiam Agsa Tatema Hia, mahasiswa Ilmu Komputer Universitas Sumatera Utara. Machine learning, data, desain antarmuka, dan pengalaman organisasi.">
+  <meta name="twitter:image" content="https://anomaly-develop.github.io/portofolio-profesional/assets/og-image.png">
+  <meta name="twitter:image:alt" content="Kartu portofolio Billiam Agsa Tatema Hia">
+
+  <!-- JSON-LD Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Billiam Agsa Tatema Hia",
+    "url": "https://github.com/anomaly-develop",
+    "email": "mailto:billiamhia@gmail.com",
+    "award": "Juara 1 Gitar Solo — FLS2N Tingkat Kota",
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Universitas Sumatera Utara",
+      "sameAs": "https://www.usu.ac.id"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Medan",
+      "addressRegion": "Sumatera Utara",
+      "addressCountry": "ID"
+    },
+    "knowsAbout": ["Machine Learning", "Data Analysis", "UI Design", "Android Development", "C++", "Python", "Music Production"],
+    "sameAs": [
+      "https://github.com/anomaly-develop",
+      "https://www.instagram.com/bil.liam_/",
+      "https://www.linkedin.com/in/billiam-agsa-tatema-hia-a08867329"
+    ]
+  }
+  </script>
+
+  <!-- Preload hero portrait -->
+  <link rel="preload" as="image" href="./assets/foto-formal.jpg" fetchpriority="high">
+
+  <!-- Styles -->
+  <script>document.documentElement.classList.add('js');</script>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <div class="intro" aria-hidden="true">
+    <div class="intro-inner">
+      <span class="intro-mark">B.</span>
+      <span class="intro-line"></span>
+      <span class="intro-name">Billiam Agsa Tatema Hia</span>
+    </div>
+  </div>
+  <div class="scroll-progress" aria-hidden="true"><span></span></div>
+  <a href="#main" class="skip-link">Lewati ke konten utama</a>
+
+  <header class="site-header" role="banner">
+    <a href="#main" class="monogram" aria-label="Billiam — beranda">B.</a>
+    <nav class="nav-desktop" role="navigation" aria-label="Navigasi utama">
+      <a href="#tentang" aria-current="false">Tentang</a>
+      <a href="#perjalanan" aria-current="false">Perjalanan</a>
+      <a href="#proyek" aria-current="false">Proyek</a>
+      <a href="#keahlian" aria-current="false">Keahlian</a>
+      <a href="#kontak" aria-current="false">Kontak</a>
+    </nav>
+    <a href="https://github.com/anomaly-develop" class="nav-github" target="_blank" rel="noopener noreferrer" data-cursor="link">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.305-.536-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+      GitHub
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="nav-panel" aria-label="Buka menu navigasi">
+      <span aria-hidden="true"></span>
+    </button>
+  </header>
+
+  <div class="nav-panel" id="nav-panel" role="dialog" aria-modal="true" aria-label="Menu navigasi">
+    <a href="#tentang">Tentang</a>
+    <a href="#perjalanan">Perjalanan</a>
+    <a href="#proyek">Proyek</a>
+    <a href="#keahlian">Keahlian</a>
+    <a href="#kontak">Kontak</a>
+    <a href="https://github.com/anomaly-develop" class="nav-github" target="_blank" rel="noopener noreferrer">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.305-.536-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+      GitHub
+    </a>
+  </div>
+
+  <main id="main" role="main" tabindex="-1">
+
+    <!-- HERO -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-stars" aria-hidden="true">
+        <span style="--x:5%;--y:16%;--d:0s;--s:2px"></span>
+        <span style="--x:13%;--y:72%;--d:1.2s;--s:1px"></span>
+        <span style="--x:22%;--y:34%;--d:2.1s;--s:3px"></span>
+        <span style="--x:31%;--y:88%;--d:.6s;--s:1px;--c:var(--teal-bright)"></span>
+        <span style="--x:38%;--y:8%;--d:1.8s;--s:2px"></span>
+        <span style="--x:44%;--y:56%;--d:3s;--s:1px"></span>
+        <span style="--x:52%;--y:22%;--d:.9s;--s:2px;--c:var(--teal-bright)"></span>
+        <span style="--x:58%;--y:78%;--d:2.6s;--s:1px"></span>
+        <span style="--x:63%;--y:42%;--d:1.5s;--s:3px"></span>
+        <span style="--x:69%;--y:12%;--d:.3s;--s:1px;--c:var(--rust-bright)"></span>
+        <span style="--x:74%;--y:64%;--d:2.2s;--s:2px"></span>
+        <span style="--x:79%;--y:30%;--d:1.1s;--s:1px"></span>
+        <span style="--x:84%;--y:82%;--d:3.4s;--s:2px;--c:var(--teal-bright)"></span>
+        <span style="--x:89%;--y:48%;--d:.7s;--s:1px"></span>
+        <span style="--x:94%;--y:18%;--d:2.9s;--s:3px"></span>
+        <span style="--x:97%;--y:70%;--d:1.9s;--s:1px;--c:var(--rust-bright)"></span>
+        <span style="--x:9%;--y:46%;--d:3.2s;--s:1px"></span>
+        <span style="--x:27%;--y:12%;--d:.4s;--s:1px;--c:var(--teal-bright)"></span>
+        <span style="--x:48%;--y:94%;--d:2.4s;--s:1px"></span>
+        <span style="--x:66%;--y:92%;--d:1.3s;--s:2px"></span>
+        <span style="--x:91%;--y:92%;--d:2.7s;--s:1px"></span>
+        <span style="--x:17%;--y:92%;--d:3.6s;--s:2px;--c:var(--teal-bright)"></span>
+      </div>
+      <div class="hero-content">
+        <p class="eyebrow hero-eyebrow">ILMU KOMPUTER USU · ANGKATAN 2025</p>
+        <h1 id="hero-title">Belajar membuat teknologi yang <em>berguna</em>.</h1>
+        <p class="hero-sub">Mahasiswa Ilmu Komputer USU angkatan 2025. Sekarang di semester tiga — sedang mendalami machine learning dan data.</p>
+        <div class="hero-ctas">
+          <a href="#proyek" class="btn btn-primary" data-cursor="link">Lihat proyek <span class="arrow">↗</span></a>
+          <a href="#tentang" class="btn btn-secondary" data-cursor="link">Kenalan dulu <span class="arrow">↗</span></a>
+        </div>
+        <div class="hero-meta">
+          <span>SEMESTER 3</span>
+          <span>ILMU KOMPUTER USU</span>
+        </div>
+      </div>
+      <div class="hero-portrait">
+        <div class="portrait-glow" aria-hidden="true"></div>
+        <div class="portrait-orbit portrait-orbit--1" aria-hidden="true"></div>
+        <div class="portrait-orbit portrait-orbit--2" aria-hidden="true"></div>
+        <div class="portrait-frame">
+          <img src="./assets/foto-formal.jpg" alt="Billiam Agsa Tatema Hia, foto formal latar merah" width="520" height="754" loading="eager">
+          <div class="portrait-overlay" aria-hidden="true"></div>
+          <span class="portrait-label">2025 — SEKARANG</span>
+        </div>
+        <p class="portrait-caption">Medan · 2026</p>
+      </div>
+      <div class="scroll-hint" aria-hidden="true">
+        <span>GULIR</span>
+        <svg viewBox="0 0 24 24"><path d="M12 4v16M8 12l4 4 4-4"/></svg>
+      </div>
+    </section>
+
+    <!-- MARQUEE -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track">
+        <!-- First copy -->
+        <span class="marquee-item">MACHINE LEARNING<img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>DATA</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>PYTHON</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>C++</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>UI DESIGN</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>MUSIK</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>FL STUDIO</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>ORGANISASI</span></span>
+        <!-- Second copy for seamless loop -->
+        <span class="marquee-item">MACHINE LEARNING<img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>DATA</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>PYTHON</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>C++</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>UI DESIGN</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>MUSIK</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>FL STUDIO</span><img class="marquee-separator" src="./assets/star-separator.svg" alt=""><span>ORGANISASI</span></span>
+      </div>
+    </div>
+
+    <!-- ABOUT (TENTANG) -->
+    <section id="tentang" class="about reveal" aria-labelledby="tentang-title">
+      <div class="wrap">
+        <header class="section-header">
+          <p class="eyebrow section-label">01 — TENTANG</p>
+          <h2 id="tentang-title">Bukan cuma soal kode.</h2>
+          <hr class="rule" aria-hidden="true">
+        </header>
+        <div class="about-text">
+          <p>Saya Billiam, mahasiswa Ilmu Komputer Universitas Sumatera Utara angkatan 2025. Saya besar di Gunungsitoli, Nias, dan sekarang belajar di Medan. Dua tempat itu cukup berbeda — terutama soal seberapa mudah teknologi bisa diakses.</p>
+          <p>Ketertarikan saya ada di machine learning dan data: bagaimana pola di dalam data bisa dipakai untuk mengambil keputusan, bukan sekadar jadi demo yang bagus di notebook. Saya juga peduli pada bagian yang sering dilewatkan orang — tampilan, alur, dan detail kecil yang membuat sesuatu benar-benar bisa dipakai.</p>
+          <p>Di luar kelas saya ikut organisasi dan kepanitiaan. Dari sana saya belajar hal yang tidak muncul di silabus: menyusun kebutuhan acara, berkoordinasi dengan banyak orang, dan tetap tenang ketika waktu makin mepet.</p>
+        </div>
+        <div class="about-facts">
+          <div class="facts-panel">
+            <dl>
+              <div><dt>Asal</dt><dd>Gunungsitoli, Nias</dd></div>
+              <div><dt>Domisili</dt><dd>Medan, Sumatera Utara</dd></div>
+              <div><dt>Studi</dt><dd>S1 Ilmu Komputer, USU</dd></div>
+              <div><dt>Angkatan</dt><dd>2025</dd></div>
+              <div><dt>Semester</dt><dd>3 (Oktober 2026)</dd></div>
+              <div><dt>IPK</dt><dd>4.00 / 4.00 <span class="fact-note">Semester 1–2</span></dd></div>
+              <div><dt>Fokus</dt><dd>Machine Learning &amp; Data</dd></div>
+              <div><dt>Organisasi</dt><dd>BEM Fasilkom-TI</dd></div>
+            </dl>
+          </div>
+        </div>
+        <blockquote class="pull-quote">
+          “Saya lebih suka membangun sesuatu yang kecil tapi selesai, daripada rencana besar yang berhenti di presentasi.”
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- JOURNEY (PERJALANAN) -->
+    <section id="perjalanan" class="journey reveal" aria-labelledby="perjalanan-title">
+      <div class="wrap">
+        <header class="section-header">
+          <p class="eyebrow section-label">02 — PERJALANAN</p>
+          <h2 id="perjalanan-title">Jejak yang bisa saya pertanggungjawabkan.</h2>
+          <hr class="rule" aria-hidden="true">
+        </header>
+        <p class="body-sm journey-intro">Urut dari yang terbaru. Yang masih berjalan ditandai jelas, yang sudah selesai ditandai selesai.</p>
+        <div class="journey-years">
+          <p class="year-label">2025<br>2026</p>
+          <p class="year-count">9 entri</p>
+        </div>
+        <div class="journey-entries">
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Koordinator Divisi PTT · CSA 24 USU</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Intern Divisi Riset & Teknologi · BEM FASILKOM-TI USU</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--sedang">SEDANG BERJALAN</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Anggota Divisi Acara · PKKMB FASILKOM-TI USU</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Anggota Divisi Acara · PMB ILMU KOMPUTER USU</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Anggota Divisi Technical · CODEFEST 002</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Anggota Divisi Keamanan · PORSENI IMILKOM USU</h3>
+            <p class="entry-org">2026</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Member · Google Developer Groups on Campus USU (2025/2026)</h3>
+            <p class="entry-org">2025</p>
+            <div class="entry-tags"><span class="tag tag--selesai">SELESAI</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">OSIS Divisi Humas</h3>
+            <p class="entry-org">SMA</p>
+            <div class="entry-tags"><span class="tag tag--pengalaman">PENGALAMAN</span></div>
+          </article>
+          <article class="journey-entry reveal">
+            <h3 class="entry-title">Juara 1 Gitar Solo · FLS2N Tingkat Kota</h3>
+            <p class="entry-org">SMA</p>
+            <div class="entry-tags"><span class="tag tag--prestasi">PRESTASI</span><span class="tag tag--prestasi">GITAR SOLO</span></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS (PROYEK) -->
+    <section id="proyek" class="projects reveal" aria-labelledby="proyek-title">
+      <div class="wrap">
+        <header class="section-header">
+          <p class="eyebrow section-label">03 — PROYEK</p>
+          <h2 id="proyek-title">Yang sudah saya bangun.</h2>
+          <hr class="rule" aria-hidden="true">
+        </header>
+        <p class="projects-intro">Semua ini proyek belajar. Saya tulis apa adanya, tanpa membesar-besarkan.</p>
+        <div class="projects-track" role="list" aria-label="Daftar proyek" tabindex="0">
+          <article class="project-card" role="listitem" data-cursor="link">
+            <div class="project-card-image">
+              <img src="./assets/project-snake.svg" alt="" aria-hidden="true" width="800" height="600" loading="lazy">
+            </div>
+            <div class="project-card-content">
+              <p class="project-number">01</p>
+              <h3 class="project-title">SNAKE.EXE</h3>
+              <p class="project-tech">EKSPLORASI · ANDROID STUDIO</p>
+              <p class="project-desc">Permainan ular klasik yang dibangun sebagai latihan pertama pengembangan aplikasi Android: mengatur input, gerak objek, dan kondisi menang-kalah.</p>
+              <div class="project-status">
+                <span class="tag tag--selesai">SELESAI</span>
+                <span class="body-sm">2025 · Proyek belajar</span>
+              </div>
+            </div>
+          </article>
+          <article class="project-card" role="listitem" data-cursor="link">
+            <div class="project-card-image">
+              <img src="./assets/project-calculator.svg" alt="" aria-hidden="true" width="800" height="600" loading="lazy">
+            </div>
+            <div class="project-card-content">
+              <p class="project-number">02</p>
+              <h3 class="project-title">KALKULATOR</h3>
+              <p class="project-tech">EKSPLORASI · PYTHON · HTML</p>
+              <p class="project-desc">Kalkulator sederhana: logika perhitungan di Python, tampilan di HTML. Dibuat untuk memahami cara menghubungkan proses di balik layar dengan antarmuka yang dilihat pengguna.</p>
+              <div class="project-status">
+                <span class="tag tag--selesai">SELESAI</span>
+                <span class="body-sm">2025 · Proyek belajar</span>
+              </div>
+            </div>
+          </article>
+          <article class="project-card" role="listitem" data-cursor="link">
+            <div class="project-card-image">
+              <img src="./assets/project-minesweeper.svg" alt="" aria-hidden="true" width="800" height="600" loading="lazy">
+            </div>
+            <div class="project-card-content">
+              <p class="project-number">03</p>
+              <h3 class="project-title">MINESWEEPER</h3>
+              <p class="project-tech">EKSPLORASI · C++</p>
+              <p class="project-desc">Implementasi Minesweeper untuk melatih logika permainan, rekursi saat membuka petak kosong, dan pengelolaan struktur data sederhana.</p>
+              <div class="project-status">
+                <span class="tag tag--selesai">SELESAI</span>
+                <span class="body-sm">2025 · Proyek belajar</span>
+              </div>
+            </div>
+          </article>
+        </div>
+        <div class="project-controls" aria-label="Kontrol carousel proyek">
+          <button class="project-btn project-btn--prev" aria-label="Proyek sebelumnya" data-cursor="link">
+            <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+          </button>
+          <div class="project-progress" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" aria-label="Posisi carousel">
+            <div class="project-progress-bar"></div>
+          </div>
+          <button class="project-btn project-btn--next" aria-label="Proyek selanjutnya" data-cursor="link">
+            <svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>
+          </button>
+        </div>
+        <p style="text-align: center; margin-top: var(--s-4);">
+          <a href="https://github.com/anomaly-develop" class="contact-cta" target="_blank" rel="noopener noreferrer" data-cursor="link">Lihat aktivitas di GitHub ↗</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- SKILLS (KEAHLIAN) -->
+    <section id="keahlian" class="skills reveal" aria-labelledby="keahlian-title">
+      <div class="wrap">
+        <header class="section-header">
+          <p class="eyebrow section-label">04 — KEAHLIAN</p>
+          <h2 id="keahlian-title">Sedang apa, sudah pernah apa.</h2>
+          <hr class="rule" aria-hidden="true">
+        </header>
+        <p class="body-sm" style="margin-bottom: var(--s-5); max-width: 64ch;">Saya tidak mencantumkan persentase. Yang saya tulis adalah sejauh mana tiap hal benar-benar sudah saya pakai.</p>
+
+        <div class="skills-block">
+          <header class="skills-block-header">
+            <span class="skills-block-number" aria-hidden="true">A</span>
+            <h3 class="skills-block-title">Sedang dipelajari</h3>
+          </header>
+          <div class="skills-list">
+            <div class="skill-item"><span class="skill-name">Machine learning</span><span class="skill-desc">dasar-dasar, masih tahap belajar terarah</span></div>
+            <div class="skill-item"><span class="skill-name">Analisis data dengan Python</span><span class="skill-desc"></span></div>
+            <div class="skill-item"><span class="skill-name">Pengembangan aplikasi Android (Android Studio)</span><span class="skill-desc"></span></div>
+          </div>
+        </div>
+
+        <div class="skills-block">
+          <header class="skills-block-header">
+            <span class="skills-block-number" aria-hidden="true">B</span>
+            <h3 class="skills-block-title">Pernah dipakai di proyek</h3>
+          </header>
+          <div class="skills-list">
+            <div class="skill-item"><span class="skill-name">Python</span><span class="skill-desc">kalkulator, latihan analisis</span></div>
+            <div class="skill-item"><span class="skill-name">C++</span><span class="skill-desc">Minesweeper, latihan struktur data</span></div>
+            <div class="skill-item"><span class="skill-name">HTML & CSS</span><span class="skill-desc">antarmuka kalkulator, halaman web</span></div>
+            <div class="skill-item"><span class="skill-name">Android Studio</span><span class="skill-desc">SNAKE.EXE</span></div>
+          </div>
+        </div>
+
+        <div class="skills-block">
+          <header class="skills-block-header">
+            <span class="skills-block-number" aria-hidden="true">C</span>
+            <h3 class="skills-block-title">Sering dipakai di luar kelas</h3>
+          </header>
+          <div class="skills-list">
+            <div class="skill-item"><span class="skill-name">Koordinasi acara dan kerja tim</span><span class="skill-desc"></span></div>
+            <div class="skill-item"><span class="skill-name">Komunikasi dan kehumasan</span><span class="skill-desc"></span></div>
+            <div class="skill-item"><span class="skill-name">Desain visual</span><span class="skill-desc"></span></div>
+            <div class="skill-item"><span class="skill-name">Editing foto dan video</span><span class="skill-desc"></span></div>
+            <div class="skill-item"><span class="skill-name">Produksi musik (FL Studio)</span><span class="skill-desc"></span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CREATIVE (DI LUAR KODE) -->
+    <section id="kreatif" class="creative reveal" aria-labelledby="kreatif-title">
+      <div class="wrap">
+        <div class="creative-text">
+          <header class="section-header">
+            <p class="eyebrow section-label">05 — DI LUAR KODE</p>
+            <h2 id="kreatif-title">Bagian yang tidak masuk transkrip.</h2>
+            <hr class="rule" aria-hidden="true">
+          </header>
+          <p>Saya suka membuat musik di FL Studio — menyusun drum, bass, dan synthesizer, mengatur chord, lalu merapikan aransemen sampai terasa pas. Selera saya condong ke wave to earth dan Reality Club, jadi banyak eksperimen berakhir di nuansa indie dan alternatif.</p>
+          <p>Selain itu saya mengerjakan desain visual serta editing foto dan video. Bukan sebagai klaim ahli — lebih sebagai cara saya melatih rasa: memperhatikan komposisi, warna, dan hal-hal kecil yang membuat sesuatu terasa selesai.</p>
+          <div class="creative-labels">
+            <span class="tag">FL STUDIO</span>
+            <span class="tag">MUSIK</span>
+            <span class="tag">DESAIN & EDITING</span>
+          </div>
+        </div>
+        <div class="creative-collage" aria-hidden="true">
+          <div class="collage-panel collage-panel--1">
+            <img src="./assets/foto-casual.jpg" alt="" width="1170" height="2080" loading="lazy">
+          </div>
+          <div class="collage-panel collage-panel--2" aria-hidden="true"></div>
+          <div class="collage-panel collage-panel--3">FL STUDIO</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT (KONTAK) -->
+    <section id="kontak" class="contact reveal" aria-labelledby="kontak-title">
+      <div class="wrap">
+        <h2 id="kontak-title">Mari terhubung.</h2>
+        <p class="contact-body">Terbuka untuk diskusi soal machine learning, data, desain antarmuka, atau sekadar bertanya soal kuliah Ilmu Komputer. Email atau Instagram adalah tempat paling cepat untuk menemukan saya.</p>
+        <a href="https://github.com/anomaly-develop" class="contact-cta" target="_blank" rel="noopener noreferrer" data-cursor="link">github.com/anomaly-develop ↗</a>
+        <div class="contact-socials">
+          <a href="mailto:billiamhia@gmail.com" class="contact-social" data-cursor="link">billiamhia@gmail.com <span aria-hidden="true">↗</span></a>
+          <a href="https://www.instagram.com/bil.liam_/" class="contact-social" target="_blank" rel="noopener noreferrer" data-cursor="link">Instagram <span aria-hidden="true">↗</span></a>
+          <a href="https://www.linkedin.com/in/billiam-agsa-tatema-hia-a08867329" class="contact-social" target="_blank" rel="noopener noreferrer" data-cursor="link">LinkedIn <span aria-hidden="true">↗</span></a>
+        </div>
+        <p class="contact-location">Medan, Sumatera Utara · Waktu Indonesia Barat (UTC+7)</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="wrap">
+      <div class="footer-left"><span id="year">2026</span> Billiam Agsa Tatema Hia</div>
+      <div class="footer-social">
+        <a href="mailto:billiamhia@gmail.com" data-cursor="link">Email</a>
+        <a href="https://www.instagram.com/bil.liam_/" target="_blank" rel="noopener noreferrer" data-cursor="link">Instagram</a>
+        <a href="https://www.linkedin.com/in/billiam-agsa-tatema-hia-a08867329" target="_blank" rel="noopener noreferrer" data-cursor="link">LinkedIn</a>
+        <a href="https://github.com/anomaly-develop" target="_blank" rel="noopener noreferrer" data-cursor="link">GitHub</a>
+      </div>
+      <div class="footer-right"><a href="#main" data-cursor="link">Kembali ke atas ↑</a></div>
+    </div>
+  </footer>
+
+  <script src="./js/main.js" defer></script>
+</body>
+</html>

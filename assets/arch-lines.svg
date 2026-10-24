@@ -1,0 +1,26 @@
+<svg width="700" height="900" viewBox="0 0 700 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .arch-line { fill: none; stroke: #EFE7D6; stroke-width: 0.5; opacity: 0.12; }
+      .arch-line-strong { fill: none; stroke: #EFE7D6; stroke-width: 1; opacity: 0.2; }
+    </style>
+  </defs>
+  <!-- Concentric arches from bottom center -->
+  <path class="arch-line" d="M350,900 Q50,600 350,300 Q650,600 350,900"/>
+  <path class="arch-line" d="M350,880 Q80,620 350,340 Q620,620 350,880"/>
+  <path class="arch-line" d="M350,860 Q110,640 350,380 Q590,640 350,860"/>
+  <path class="arch-line" d="M350,840 Q140,660 350,420 Q560,660 350,840"/>
+  <path class="arch-line-strong" d="M350,820 Q170,680 350,460 Q530,680 350,820"/>
+  <path class="arch-line" d="M350,800 Q200,700 350,500 Q500,700 350,800"/>
+  <path class="arch-line" d="M350,780 Q230,720 350,540 Q470,720 350,780"/>
+  <path class="arch-line" d="M350,760 Q260,740 350,580 Q440,740 350,760"/>
+  <path class="arch-line" d="M350,740 Q290,760 350,620 Q410,760 350,740"/>
+  
+  <!-- Vertical center line -->
+  <line class="arch-line" x1="350" y1="300" x2="350" y2="900"/>
+  
+  <!-- Horizontal accent lines -->
+  <line class="arch-line-strong" x1="200" y1="460" x2="500" y2="460"/>
+  <line class="arch-line" x1="150" y1="540" x2="550" y2="540"/>
+  <line class="arch-line" x1="100" y1="620" x2="600" y2="620"/>
+</svg>

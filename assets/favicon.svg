@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .favicon-bg { fill: #080D13; }
+      .favicon-arch { fill: none; stroke: #C9A35B; stroke-width: 1.5; }
+      .favicon-monogram { fill: #C9A35B; font-family: "Fraunces", Georgia, serif; font-size: 18px; font-weight: 400; text-anchor: middle; dominant-baseline: central; }
+    </style>
+  </defs>
+  <!-- Background circle -->
+  <circle class="favicon-bg" cx="16" cy="16" r="16"/>
+  <!-- Arch shape -->
+  <path class="favicon-arch" d="M6,22 Q6,8 16,4 Q26,8 26,22"/>
+  <!-- Monogram B -->
+  <text class="favicon-monogram" x="16" y="17">B</text>
+</svg>

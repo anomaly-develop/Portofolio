@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>404 — Halaman tidak ditemukan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"></noscript>
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="stylesheet" href="./css/style.css">
+  <style>
+    .error-page { min-height: 100svh; display: flex; align-items: center; justify-content: center; padding: var(--gutter); text-align: center; }
+    .error-code { font-family: var(--f-display); font-size: clamp(6rem, 15vw, 14rem); font-weight: 400; line-height: 1; color: var(--brass); letter-spacing: -.03em; margin-bottom: var(--s-3); }
+    .error-title { font-family: var(--f-display); font-size: clamp(1.75rem, 3.5vw, 2.5rem); font-weight: 400; margin-bottom: var(--s-2); }
+    .error-body { color: var(--parchment-2); max-width: 40ch; margin: 0 auto var(--s-5); }
+    .error-cta { display: inline-flex; align-items: center; gap: .5rem; }
+  </style>
+</head>
+<body>
+  <main class="error-page" role="main">
+    <div>
+      <p class="error-code" aria-hidden="true">404</p>
+      <h1 class="error-title">Halaman ini belum ada di peta.</h1>
+      <p class="error-body">Mungkin tautannya salah, atau halamannya memang belum saya buat.</p>
+      <a href="./index.html" class="btn btn-primary error-cta" data-cursor="link">Kembali ke halaman utama <span class="arrow">↗</span></a>
+    </div>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <div class="wrap">
+      <div class="footer-left"><span id="year">2026</span> Billiam Agsa Tatema Hia</div>
+      <div class="footer-center">Dibangun dengan HTML, CSS, dan JavaScript — tanpa framework</div>
+      <div class="footer-right"><a href="./index.html" data-cursor="link">Kembali ke atas ↑</a></div>
+    </div>
+  </footer>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

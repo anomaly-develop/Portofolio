@@ -1,0 +1,53 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .og-bg { fill: #080D13; }
+      .og-name { fill: #EFE7D6; font-family: "Fraunces", Georgia, "Times New Roman", serif; font-size: 72px; font-weight: 400; text-anchor: middle; dominant-baseline: middle; letter-spacing: -0.025em; }
+      .og-tagline { fill: #BDB3A0; font-family: "Instrument Sans", system-ui, sans-serif; font-size: 28px; font-weight: 400; text-anchor: middle; dominant-baseline: middle; line-height: 1.5; }
+      .og-mono { fill: #C9A35B; font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 18px; font-weight: 400; text-anchor: middle; dominant-baseline: middle; text-transform: uppercase; letter-spacing: 0.14em; }
+      .og-line { fill: none; stroke: #C9A35B; stroke-width: 1; opacity: 0.3; }
+      .og-accent { fill: #C9A35B; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect class="og-bg" width="1200" height="630"/>
+  
+  <!-- Subtle contour lines -->
+  <g class="og-line">
+    <path d="M50,550 Q200,500 400,520 T800,510 T1150,540" opacity="0.15"/>
+    <path d="M30,400 Q180,350 380,370 T780,360 T1170,390" opacity="0.1"/>
+    <path d="M80,250 Q220,200 420,220 T820,210 T1180,240" opacity="0.08"/>
+  </g>
+  
+  <!-- Constellation nodes -->
+  <circle class="og-accent" cx="200" cy="150" r="3" opacity="0.6"/>
+  <circle class="og-accent" cx="400" cy="100" r="4" opacity="0.8"/>
+  <circle class="og-accent" cx="600" cy="140" r="3" opacity="0.6"/>
+  <circle class="og-accent" cx="800" cy="80" r="3" opacity="0.5"/>
+  <circle class="og-accent" cx="300" cy="300" r="3" opacity="0.5"/>
+  <circle class="og-accent" cx="500" cy="350" r="4" opacity="0.7"/>
+  <circle class="og-accent" cx="700" cy="280" r="3" opacity="0.5"/>
+  <circle class="og-accent" cx="900" cy="320" r="3" opacity="0.4"/>
+  <circle class="og-accent" cx="1000" cy="500" r="3" opacity="0.4"/>
+  
+  <!-- Constellation lines -->
+  <g class="og-line" opacity="0.2">
+    <line x1="200" y1="150" x2="400" y2="100"/>
+    <line x1="400" y1="100" x2="600" y2="140"/>
+    <line x1="600" y1="140" x2="800" y2="80"/>
+    <line x1="400" y1="100" x2="300" y2="300"/>
+    <line x1="300" y1="300" x2="500" y2="350"/>
+    <line x1="500" y1="350" x2="700" y2="280"/>
+    <line x1="700" y1="280" x2="900" y2="320"/>
+    <line x1="900" y1="320" x2="1000" y2="500"/>
+  </g>
+  
+  <!-- Main content -->
+  <text class="og-name" x="600" y="240">Billiam Agsa Tatema Hia</text>
+  <text class="og-tagline" x="600" y="330">Belajar membuat teknologi yang berguna.</text>
+  <text class="og-mono" x="600" y="420">Ilmu Komputer USU 2025</text>
+  
+  <!-- Decorative brass line -->
+  <line class="og-accent" x1="450" y1="450" x2="750" y2="450" stroke-width="2"/>
+</svg>

@@ -1,0 +1,1271 @@
+{
+  "url": "file:///D:/Opencode-project/Portofolio-profesional/index.html",
+  "generatedAt": "2026-10-24T20:50:21.399Z",
+  "viewports": [
+    {
+      "name": "desktop-1440",
+      "docScrollW": 1440,
+      "docClientW": 1440,
+      "docHeight": 8393,
+      "imgs": [
+        {
+          "src": "./assets/foto-formal.jpg",
+          "ok": true,
+          "w": 1122,
+          "h": 1600
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/project-snake.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-calculator.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-minesweeper.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/foto-casual.jpg",
+          "ok": true,
+          "w": 1170,
+          "h": 2080
+        }
+      ],
+      "brokenImgs": [],
+      "overflows": [
+        {
+          "tag": "div",
+          "cls": "portrait-glow",
+          "right": 1500,
+          "w": 771
+        },
+        {
+          "tag": "div",
+          "cls": "portrait-orbit portrait-orbit--1",
+          "right": 1486,
+          "w": 742
+        },
+        {
+          "tag": "div",
+          "cls": "portrait-orbit portrait-orbit--2",
+          "right": 1530,
+          "w": 831
+        },
+        {
+          "tag": "div",
+          "cls": "marquee-track",
+          "right": 3836,
+          "w": 3897
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 1888,
+          "w": 1949
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1560,
+          "w": 201
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 1594,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1856,
+          "w": 237
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 3836,
+          "w": 1949
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 2342,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 2464,
+          "w": 98
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 2498,
+          "w": 10
+        }
+      ],
+      "smallTargets": [
+        {
+          "text": "Tentang",
+          "h": 19
+        },
+        {
+          "text": "Perjalanan",
+          "h": 19
+        },
+        {
+          "text": "Proyek",
+          "h": 19
+        },
+        {
+          "text": "Keahlian",
+          "h": 19
+        },
+        {
+          "text": "Kontak",
+          "h": 19
+        },
+        {
+          "text": "GitHub",
+          "h": 37
+        },
+        {
+          "text": "GitHub",
+          "h": 34
+        }
+      ],
+      "h1s": [
+        "Belajar membuat teknologi yang berguna."
+      ],
+      "missingAlt": 0,
+      "bodyBg": "rgb(8, 13, 19)",
+      "bodyColor": "rgb(239, 231, 214)",
+      "sections": [
+        "section",
+        "div",
+        "tentang",
+        "perjalanan",
+        "proyek",
+        "keahlian",
+        "kreatif",
+        "kontak"
+      ],
+      "hasSkipLink": true,
+      "lang": "id",
+      "title": "Billiam Agsa Tatema Hia — Ilmu Komputer USU",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "laptop-1280",
+      "docScrollW": 1280,
+      "docClientW": 1280,
+      "docHeight": 8020,
+      "imgs": [
+        {
+          "src": "./assets/foto-formal.jpg",
+          "ok": true,
+          "w": 1122,
+          "h": 1600
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/project-snake.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-calculator.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-minesweeper.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/foto-casual.jpg",
+          "ok": true,
+          "w": 1170,
+          "h": 2080
+        }
+      ],
+      "brokenImgs": [],
+      "overflows": [
+        {
+          "tag": "div",
+          "cls": "portrait-glow",
+          "right": 1333,
+          "w": 685
+        },
+        {
+          "tag": "div",
+          "cls": "portrait-orbit portrait-orbit--1",
+          "right": 1370,
+          "w": 758
+        },
+        {
+          "tag": "div",
+          "cls": "portrait-orbit portrait-orbit--2",
+          "right": 1402,
+          "w": 822
+        },
+        {
+          "tag": "div",
+          "cls": "marquee-track",
+          "right": 3531,
+          "w": 3675
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 1693,
+          "w": 1838
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1384,
+          "w": 186
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 1418,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1661,
+          "w": 219
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 3531,
+          "w": 1838
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 2119,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 2233,
+          "w": 91
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 2267,
+          "w": 10
+        }
+      ],
+      "smallTargets": [
+        {
+          "text": "Tentang",
+          "h": 19
+        },
+        {
+          "text": "Perjalanan",
+          "h": 19
+        },
+        {
+          "text": "Proyek",
+          "h": 19
+        },
+        {
+          "text": "Keahlian",
+          "h": 19
+        },
+        {
+          "text": "Kontak",
+          "h": 19
+        },
+        {
+          "text": "GitHub",
+          "h": 37
+        },
+        {
+          "text": "GitHub",
+          "h": 34
+        }
+      ],
+      "h1s": [
+        "Belajar membuat teknologi yang berguna."
+      ],
+      "missingAlt": 0,
+      "bodyBg": "rgb(8, 13, 19)",
+      "bodyColor": "rgb(239, 231, 214)",
+      "sections": [
+        "section",
+        "div",
+        "tentang",
+        "perjalanan",
+        "proyek",
+        "keahlian",
+        "kreatif",
+        "kontak"
+      ],
+      "hasSkipLink": true,
+      "lang": "id",
+      "title": "Billiam Agsa Tatema Hia — Ilmu Komputer USU",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "tablet-834",
+      "docScrollW": 834,
+      "docClientW": 834,
+      "docHeight": 9471,
+      "imgs": [
+        {
+          "src": "./assets/foto-formal.jpg",
+          "ok": true,
+          "w": 1122,
+          "h": 1600
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/project-snake.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-calculator.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-minesweeper.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/foto-casual.jpg",
+          "ok": true,
+          "w": 1170,
+          "h": 2080
+        }
+      ],
+      "brokenImgs": [],
+      "overflows": [
+        {
+          "tag": "div",
+          "cls": "portrait-glow",
+          "right": 893,
+          "w": 951
+        },
+        {
+          "tag": "div",
+          "cls": "marquee-track",
+          "right": 2669,
+          "w": 2779
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 1280,
+          "w": 1389
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 860,
+          "w": 78
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 894,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1043,
+          "w": 125
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 1077,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1248,
+          "w": 148
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 2669,
+          "w": 1389
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 1588,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1673,
+          "w": 61
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 1707,
+          "w": 10
+        }
+      ],
+      "smallTargets": [
+        {
+          "text": "Tentang",
+          "h": 19
+        },
+        {
+          "text": "Perjalanan",
+          "h": 19
+        },
+        {
+          "text": "Proyek",
+          "h": 19
+        },
+        {
+          "text": "Keahlian",
+          "h": 19
+        },
+        {
+          "text": "Kontak",
+          "h": 19
+        },
+        {
+          "text": "GitHub",
+          "h": 37
+        },
+        {
+          "text": "GitHub",
+          "h": 34
+        }
+      ],
+      "h1s": [
+        "Belajar membuat teknologi yang berguna."
+      ],
+      "missingAlt": 0,
+      "bodyBg": "rgb(8, 13, 19)",
+      "bodyColor": "rgb(239, 231, 214)",
+      "sections": [
+        "section",
+        "div",
+        "tentang",
+        "perjalanan",
+        "proyek",
+        "keahlian",
+        "kreatif",
+        "kontak"
+      ],
+      "hasSkipLink": true,
+      "lang": "id",
+      "title": "Billiam Agsa Tatema Hia — Ilmu Komputer USU",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "mobile-390",
+      "docScrollW": 390,
+      "docClientW": 390,
+      "docHeight": 11496,
+      "imgs": [
+        {
+          "src": "./assets/foto-formal.jpg",
+          "ok": true,
+          "w": 1122,
+          "h": 1600
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/project-snake.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-calculator.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-minesweeper.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/foto-casual.jpg",
+          "ok": true,
+          "w": 1170,
+          "h": 2080
+        }
+      ],
+      "brokenImgs": [],
+      "overflows": [
+        {
+          "tag": "div",
+          "cls": "portrait-glow",
+          "right": 412,
+          "w": 434
+        },
+        {
+          "tag": "div",
+          "cls": "marquee-track",
+          "right": 2175,
+          "w": 2264
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 1043,
+          "w": 1132
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 444,
+          "w": 38
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 470,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 593,
+          "w": 107
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 619,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 704,
+          "w": 69
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 730,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 856,
+          "w": 110
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 882,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 1027,
+          "w": 129
+        }
+      ],
+      "smallTargets": [
+        {
+          "text": "Tentang",
+          "h": 35
+        },
+        {
+          "text": "Perjalanan",
+          "h": 35
+        },
+        {
+          "text": "Proyek",
+          "h": 35
+        },
+        {
+          "text": "Keahlian",
+          "h": 35
+        },
+        {
+          "text": "Kontak",
+          "h": 35
+        },
+        {
+          "text": "GitHub",
+          "h": 34
+        }
+      ],
+      "h1s": [
+        "Belajar membuat teknologi yang berguna."
+      ],
+      "missingAlt": 0,
+      "bodyBg": "rgb(8, 13, 19)",
+      "bodyColor": "rgb(239, 231, 214)",
+      "sections": [
+        "section",
+        "div",
+        "tentang",
+        "perjalanan",
+        "proyek",
+        "keahlian",
+        "kreatif",
+        "kontak"
+      ],
+      "hasSkipLink": true,
+      "lang": "id",
+      "title": "Billiam Agsa Tatema Hia — Ilmu Komputer USU",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "mobile-360",
+      "docScrollW": 360,
+      "docClientW": 360,
+      "docHeight": 11703,
+      "imgs": [
+        {
+          "src": "./assets/foto-formal.jpg",
+          "ok": true,
+          "w": 1122,
+          "h": 1600
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/star-separator.svg",
+          "ok": true,
+          "w": 10,
+          "h": 10
+        },
+        {
+          "src": "./assets/project-snake.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-calculator.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/project-minesweeper.svg",
+          "ok": true,
+          "w": 800,
+          "h": 600
+        },
+        {
+          "src": "./assets/foto-casual.jpg",
+          "ok": true,
+          "w": 1170,
+          "h": 2080
+        }
+      ],
+      "brokenImgs": [],
+      "overflows": [
+        {
+          "tag": "div",
+          "cls": "portrait-glow",
+          "right": 378,
+          "w": 397
+        },
+        {
+          "tag": "div",
+          "cls": "marquee-track",
+          "right": 2175,
+          "w": 2264
+        },
+        {
+          "tag": "span",
+          "cls": "marquee-item",
+          "right": 1043,
+          "w": 1132
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 365,
+          "w": 88
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 391,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 444,
+          "w": 38
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 470,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 593,
+          "w": 107
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 619,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 704,
+          "w": 69
+        },
+        {
+          "tag": "img",
+          "cls": "marquee-separator",
+          "right": 730,
+          "w": 10
+        },
+        {
+          "tag": "span",
+          "cls": "",
+          "right": 856,
+          "w": 110
+        }
+      ],
+      "smallTargets": [
+        {
+          "text": "Tentang",
+          "h": 35
+        },
+        {
+          "text": "Perjalanan",
+          "h": 35
+        },
+        {
+          "text": "Proyek",
+          "h": 35
+        },
+        {
+          "text": "Keahlian",
+          "h": 35
+        },
+        {
+          "text": "Kontak",
+          "h": 35
+        },
+        {
+          "text": "GitHub",
+          "h": 34
+        }
+      ],
+      "h1s": [
+        "Belajar membuat teknologi yang berguna."
+      ],
+      "missingAlt": 0,
+      "bodyBg": "rgb(8, 13, 19)",
+      "bodyColor": "rgb(239, 231, 214)",
+      "sections": [
+        "section",
+        "div",
+        "tentang",
+        "perjalanan",
+        "proyek",
+        "keahlian",
+        "kreatif",
+        "kontak"
+      ],
+      "hasSkipLink": true,
+      "lang": "id",
+      "title": "Billiam Agsa Tatema Hia — Ilmu Komputer USU",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": []
+    }
+  ],
+  "issues": [
+    {
+      "level": "warn",
+      "scope": "desktop-1440",
+      "msg": "Elemen melewati viewport: [{\"tag\":\"div\",\"cls\":\"portrait-glow\",\"right\":1500,\"w\":771},{\"tag\":\"div\",\"cls\":\"portrait-orbit portrait-orbit--1\",\"right\":1486,\"w\":742},{\"tag\":\"div\",\"cls\":\"portrait-orbit portrait-orbit--2\",\"right\":1530,\"w\":831},{\"tag\":\"div\",\"cls\":\"marquee-track\",\"right\":3836,\"w\":3897},{\"tag\":\"span\",\"cls\":\"marquee-item\",\"right\":1888,\"w\":1949}]"
+    },
+    {
+      "level": "warn",
+      "scope": "laptop-1280",
+      "msg": "Elemen melewati viewport: [{\"tag\":\"div\",\"cls\":\"portrait-glow\",\"right\":1333,\"w\":685},{\"tag\":\"div\",\"cls\":\"portrait-orbit portrait-orbit--1\",\"right\":1370,\"w\":758},{\"tag\":\"div\",\"cls\":\"portrait-orbit portrait-orbit--2\",\"right\":1402,\"w\":822},{\"tag\":\"div\",\"cls\":\"marquee-track\",\"right\":3531,\"w\":3675},{\"tag\":\"span\",\"cls\":\"marquee-item\",\"right\":1693,\"w\":1838}]"
+    },
+    {
+      "level": "warn",
+      "scope": "tablet-834",
+      "msg": "Elemen melewati viewport: [{\"tag\":\"div\",\"cls\":\"portrait-glow\",\"right\":893,\"w\":951},{\"tag\":\"div\",\"cls\":\"marquee-track\",\"right\":2669,\"w\":2779},{\"tag\":\"span\",\"cls\":\"marquee-item\",\"right\":1280,\"w\":1389},{\"tag\":\"span\",\"cls\":\"\",\"right\":860,\"w\":78},{\"tag\":\"img\",\"cls\":\"marquee-separator\",\"right\":894,\"w\":10}]"
+    },
+    {
+      "level": "warn",
+      "scope": "mobile-390",
+      "msg": "Elemen melewati viewport: [{\"tag\":\"div\",\"cls\":\"portrait-glow\",\"right\":412,\"w\":434},{\"tag\":\"div\",\"cls\":\"marquee-track\",\"right\":2175,\"w\":2264},{\"tag\":\"span\",\"cls\":\"marquee-item\",\"right\":1043,\"w\":1132},{\"tag\":\"span\",\"cls\":\"\",\"right\":444,\"w\":38},{\"tag\":\"img\",\"cls\":\"marquee-separator\",\"right\":470,\"w\":10}]"
+    },
+    {
+      "level": "warn",
+      "scope": "mobile-360",
+      "msg": "Elemen melewati viewport: [{\"tag\":\"div\",\"cls\":\"portrait-glow\",\"right\":378,\"w\":397},{\"tag\":\"div\",\"cls\":\"marquee-track\",\"right\":2175,\"w\":2264},{\"tag\":\"span\",\"cls\":\"marquee-item\",\"right\":1043,\"w\":1132},{\"tag\":\"span\",\"cls\":\"\",\"right\":365,\"w\":88},{\"tag\":\"img\",\"cls\":\"marquee-separator\",\"right\":391,\"w\":10}]"
+    }
+  ],
+  "ogImage": "assets/og-image.png generated"
+}
